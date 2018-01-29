@@ -55,10 +55,10 @@ background-color:;
 <body>
 <div class="icons">
 
-<a target="_blank" alt="facebook" title="facebook" href="https://www.facebook.com/kurt.gulledge" class ="fa fa-facebook-official"></a>
+<a target="_blank" alt="facebook" title="facebook" href="#" class ="fa fa-facebook-official"></a>
 
 
-<a target="_blank" alt="twitter" title="twitter" href="https://twitter.com/Kurt61823"class ="fa fa-twitter"></a> 
+<a target="_blank" alt="twitter" title="twitter" href="#" ="fa fa-twitter"></a> 
 
 </div>
 
